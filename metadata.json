@@ -1,0 +1,6 @@
+{
+  "name": "Global Trade Portal",
+  "description": "Alibaba-style B2B global trade platform featuring wholesale product catalogs, secure escrow Trade Assurance, supplier live messages, and dynamic order logistics tracking with push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

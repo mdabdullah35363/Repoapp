@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop Shadow of Cargo Box -->
+    <path
+        android:fillColor="#3D000000"
+        android:pathData="M54,82 L82,68 L54,54 L26,68 Z" />
+
+    <!-- Isometric Cargo Box Top Face -->
+    <path
+        android:fillColor="#FFB380"
+        android:pathData="M54,30 L80,43 L54,56 L28,43 Z" />
+
+    <!-- Isometric Cargo Box Left Face -->
+    <path
+        android:fillColor="#FF6A00"
+        android:pathData="M28,43 L54,56 L54,80 L28,67 Z" />
+
+    <!-- Isometric Cargo Box Right Face -->
+    <path
+        android:fillColor="#D35400"
+        android:pathData="M54,56 L80,43 L80,67 L54,80 Z" />
+
+    <!-- Trade Assurance Security Seal (Shield) -->
+    <!-- Shield Outline Backing -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18 C58,18 66,16 68,22 C68,34 54,42 54,42 C54,42 40,34 40,22 C42,16 50,18 54,18 Z" />
+
+    <!-- Shield Interior Golden Seal -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M54,21 C57,21 63,19 65,24 C65,33 54,39 54,39 C54,39 43,33 43,24 C45,19 51,21 54,21 Z" />
+
+    <!-- Shield Check Mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,32 L47,28 L49,26 L51,28 L57,22 L59,24 Z" />
+</vector>
